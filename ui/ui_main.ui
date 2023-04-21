@@ -158,7 +158,7 @@
       <string>D</string>
      </property>
      <property name="shortcut">
-      <string>Ctrl+S</string>
+      <string>D</string>
      </property>
      <property name="checkable">
       <bool>false</bool>
@@ -247,19 +247,6 @@
     <property name="title">
      <string>Status Area</string>
     </property>
-    <widget class="QLabel" name="label_tcp">
-     <property name="geometry">
-      <rect>
-       <x>10</x>
-       <y>90</y>
-       <width>251</width>
-       <height>16</height>
-      </rect>
-     </property>
-     <property name="text">
-      <string>TCP : 연결없음</string>
-     </property>
-    </widget>
     <widget class="QLabel" name="label_network">
      <property name="geometry">
       <rect>
@@ -271,19 +258,6 @@
      </property>
      <property name="text">
       <string>Network : 연결 없음</string>
-     </property>
-    </widget>
-    <widget class="QLabel" name="label_robot">
-     <property name="geometry">
-      <rect>
-       <x>10</x>
-       <y>60</y>
-       <width>251</width>
-       <height>16</height>
-      </rect>
-     </property>
-     <property name="text">
-      <string>Robot : 연결 없음</string>
      </property>
     </widget>
    </widget>
